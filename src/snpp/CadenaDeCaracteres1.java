@@ -1,5 +1,10 @@
 package snpp;
 import java.util.Scanner;
+/*Autora: Amada Romero de Sanchez
+  Este progama pide dos nombres y dos edades para comparar las edades y decir cual de las personas
+  es menor
+  version: 1.0
+*/
 public class CadenaDeCaracteres1 {
     public static void main(String[] args) {
         Scanner teclado=new Scanner(System.in);
